@@ -141,7 +141,7 @@ def signUpPage():
     sup.mainloop()
 
 def menu():
-    #login.destroy()
+    login.destroy()
     global menu 
     menu = Tk()
     
@@ -667,4 +667,3 @@ def start():
     
 if __name__=='__main__':
     start()
-    
