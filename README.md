@@ -1,4 +1,4 @@
-### Please Fork or Star the repo before cloning to your local system
+# Please Fork or Star the repo before cloning to your local system
 
 # Quiz-App
 A quiz app created with GUI in python using tkinter.
